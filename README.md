@@ -33,8 +33,8 @@ Me gusta mantener un código limpio, modular y fácil de mantener, aplicando bue
 ---
 
 ### 📫 Contacto
-📧 **Correo:** *adolfo.valdes.rizo@example.com*  
-🌐 (Agrega tu portafolio o LinkedIn cuando lo tengas)
+📧 **Correo:** *avr231125@gmail.com*  
+🌐
 
 ---
 
